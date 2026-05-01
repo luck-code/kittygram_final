@@ -29,7 +29,7 @@ services:
       - static:/static
 
   gateway:
-    image: iluckcode/kittygram_gateway
+    image: iluckcode/kittygram_nginx
     env_file: .env
     ports:
       - 9000:80
