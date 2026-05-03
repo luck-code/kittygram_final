@@ -1,3 +1,4 @@
+[![Main Kittygram workflow](https://github.com/luck-code/kittygram_final/actions/workflows/main.yml/badge.svg?branch=main&event=push)](https://github.com/luck-code/kittygram_final/actions/workflows/main.yml)
 #  Как работать с репозиторием финального задания
 
 ## Что нужно сделать
